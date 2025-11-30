@@ -1,6 +1,6 @@
 # 打怪升级游戏
 
-一个用**纯 Python + for + while + 列表**实现的完整交互式RPG小游戏，  
+一个Python初学者用**纯 Python + for + while + 列表**实现的完整交互式RPG小游戏，  
 从零到一独立开发，2025.11.30 凌晨完成。
 
 ## 游戏特色
@@ -15,4 +15,5 @@ Python 3.10+
 标准库：random
 数据结构：列表 + 嵌套 while + for 遍历
 零外部依赖
-作者  Xeallex
+
+##作者  Xeallex
